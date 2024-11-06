@@ -1,16 +1,25 @@
-## Hi there 👋
+#### Hey there
+Shamuel, Economist & Data Scientis.
 
-<!--
-**Shamuelp/Shamuelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	➡️ - Econometrics.
 
-Here are some ideas to get you started:
+	➡️ - I work with R, Python and SQL mainly.
+	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I constantly work on projects, they will come out over time.
+
+Message me on [LinkedIn](www.linkedin.com/in/shamuel-molina-duque-89700b240), or [email](shamuelsmd6@gmail.com) me.
+
+<div>
+
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+ 
+</div>
+
+<br />
+
+</div>
