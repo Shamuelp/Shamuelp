@@ -1,4 +1,4 @@
-#### Hey there
+#### Hello there.
 Shamuel, Economist & Data Scientis.
 
 	➡️ - Econometrics.
@@ -8,10 +8,7 @@ Shamuel, Economist & Data Scientis.
 
 I constantly work on projects, they will come out over time.
 
-Message me on [LinkedIn](https://www.linkedin.com/in/shamuel-molina-duque-89700b240), or [email](mailto:shamuelsmd6@gmail.com) me.
-
 Message me on <a href="https://www.linkedin.com/in/shamuel-molina-duque-89700b240" target="_blank">LinkedIn</a>, or <a href="mailto:shamuelsmd6@gmail.com">email</a> me.
-
 
 <div>
 
